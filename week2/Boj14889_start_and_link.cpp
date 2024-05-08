@@ -36,6 +36,7 @@ int go(vector<int>& a, vector<int>& b) {
 	}
 	return abs(ret.first - ret.second);
 }
+
 int main() {
 	cin >> n;
 	for (int i = 0; i < n; i++) {
