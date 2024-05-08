@@ -4,6 +4,8 @@
 #include <queue>
 using namespace std;
 
+//혼자서 못품.
+
 struct Tree {
     int x, y, age;
     bool alive;

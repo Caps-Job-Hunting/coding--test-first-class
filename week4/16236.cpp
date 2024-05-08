@@ -2,7 +2,7 @@
 #include <vector>
 #include <queue>
 #include <algorithm>
-#include <climits> // 이 라이브러리를 추가하여 INT_MAX를 사용할 수 있습니다.
+#include <climits> 
 
 using namespace std;
 
